@@ -1,0 +1,38 @@
+[
+    {
+        "name": "avangdev/avang-php",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/avangdev/avang-php.git",
+            "reference": "0e55f766406b2a0fde867c5a689937bb18ae0e94"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/avangdev/avang-php/zipball/0e55f766406b2a0fde867c5a689937bb18ae0e94",
+            "reference": "0e55f766406b2a0fde867c5a689937bb18ae0e94",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2"
+        },
+        "time": "2018-08-10T14:23:08+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "AvangEmailApi/autoload.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "AvangEmail PHP-SDK",
+        "homepage": "https://www.avangemail.com",
+        "keywords": [
+            "AvangEmail"
+        ]
+    }
+]

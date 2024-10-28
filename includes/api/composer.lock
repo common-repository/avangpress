@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "b827fdc323874e3255ccc7da3ed5201a",
+    "packages": [
+        {
+            "name": "avangdev/avang-php",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/avangdev/avang-php.git",
+                "reference": "0e55f766406b2a0fde867c5a689937bb18ae0e94"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/avangdev/avang-php/zipball/0e55f766406b2a0fde867c5a689937bb18ae0e94",
+                "reference": "0e55f766406b2a0fde867c5a689937bb18ae0e94",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "AvangPressApi/autoload.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "AvangPress PHP-SDK",
+            "homepage": "https://www.avangemail.com",
+            "keywords": [
+                "AvangPress"
+            ],
+            "time": "2018-08-10T14:23:08+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "avangdev/avang-php": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

@@ -1,0 +1,5 @@
+{
+    "require": {
+        "avangdev/avang-php": "dev-master"
+    }
+}
